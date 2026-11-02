@@ -11,6 +11,11 @@ import "./interactive.css";
 
 const MotionLink = motion.create(Link);
 
+export function PaginatedCards({ children, className }: { children: ReactNode[]; className: string }) {
+  const [expanded, setExpanded] = useState(false);
+  return <><div className={className}>{expanded ? children : children.slice(0, 6)}</div>{!expanded && children.length > 6 && <div className="pagination"><button className="button" type="button" onClick={() => setExpanded(true)}>Load More</button></div>}</>;
+}
+
 export function Card({ children, href, className }: { children: ReactNode; href: string; className: string }) {
   const [scope, animate] = useAnimate<HTMLAnchorElement>();
   const reducedMotion = useReducedMotion();

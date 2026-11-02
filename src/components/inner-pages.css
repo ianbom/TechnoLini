@@ -8,6 +8,8 @@
   padding-bottom: 100px
 }
 
+.pagination { display: flex; justify-content: center; padding-top: 40px; }
+
 .load-more-note {
   text-align: center;
   padding: 48px 0 0;
@@ -1174,7 +1176,7 @@
 }
 
 .detail-page-heading .page-heading {
-  padding-bottom: 60px
+  padding-bottom: 80px
 }
 
 .detail-page-heading h1 {

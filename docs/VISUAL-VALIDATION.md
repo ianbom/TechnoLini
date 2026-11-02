@@ -25,4 +25,8 @@ Motion timestamps start after DOMContentLoaded and font readiness. Screenshot en
 
 ## Results
 
-Capture run pending. Ranked differences will be recorded after comparing manifests and representative screenshots. Captures reflect an evolving local implementation; rerun `LOCAL_ONLY=1` after application refinements.
+Reference and local captures completed for all 66 route/viewport pairs. Each side reported no horizontal overflow or page errors during capture. Initial comparison exposed missing About imagery, incorrect service cards, tablet pricing columns, FAQ colors, footer details, and an animation trigger that hid the mobile service list; these were corrected. The service screenshots at 390px and 1440px were refreshed after the animation fix.
+
+Representative initial-viewport comparisons show close alignment for the home, About, and service pages. Full-page heights still differ, especially on phones; some lower-page spacing, typography, card proportions, and motion timing remain approximate. Framer's viewport-triggered content can be hidden in a full-page capture even when it appears during normal scrolling, so full-page screenshots alone do not establish animation equivalence. The motion frames are not synchronized closely enough to claim frame-perfect timing.
+
+Pagination revealed four more detail pages after the original capture set. Their routes and images were checked in functional tests, but they are not included in the 66-pair visual set. The reference's floating Framer promotion is intentionally omitted. Local form feedback states that no message was sent; there is no submission backend.

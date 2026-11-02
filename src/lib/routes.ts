@@ -1,7 +1,7 @@
 export const collections = {
-  project: ["future-landing-page", "ai-automation-dashboard", "minimal-portfolio-showcase-application", "clean-show-business-card-mockup", "fade-book-flip-page-wise-animation", "front-page-on-paper-crop"],
+  project: ["future-landing-page", "ai-automation-dashboard", "minimal-portfolio-showcase-application", "clean-show-business-card-mockup", "fade-book-flip-page-wise-animation", "front-page-on-paper-crop", "brochure-design-template", "ribbon-on-the-white-and-yellow-box"],
   service: ["branding-design", "web-mobile-development", "ui-ux-design", "motion-design", "content-strategy", "social-media-management"],
-  blog: ["5-key-trends-shaping-e-commerce-in-2023", "the-power-of-influencer-marketing-a-comprehensive-guide", "cybersecurity-in-the-digital-age-protecting-your-business", "mastering-the-art-of-seo-best-practices-and-strategies", "designing-engaging-user-experiences-the-essentials", "10-tips-for-remote-work-productivity"],
+  blog: ["5-key-trends-shaping-e-commerce-in-2023", "the-power-of-influencer-marketing-a-comprehensive-guide", "cybersecurity-in-the-digital-age-protecting-your-business", "mastering-the-art-of-seo-best-practices-and-strategies", "designing-engaging-user-experiences-the-essentials", "10-tips-for-remote-work-productivity", "artificial-intelligence-in-healthcare-revolutionizing-patient-care", "investing-in-cryptocurrency-a-beginner-s-guide"],
   career: ["web-developer", "graphic-designer", "digital-marketer", "ui-ux-designer", "content-writer", "project-manager"],
   pricing: ["basic-package", "standard-package", "pro-package"],
 } as const;

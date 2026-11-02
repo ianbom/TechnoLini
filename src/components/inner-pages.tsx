@@ -2,7 +2,7 @@ import Link from "next/link";
 import reference from "@/data/reference.json";
 import { blogs, jobs, plans, projects, services } from "@/data/catalog";
 import { BlogCard, Consultation, NotFoundView, PageHeading, Photo, ProjectCard, SectionHeading, ServiceList, Shell } from "./shared";
-import { CareerTicker, ContactForm, FAQ, PricingPlans, Reveal, Testimonials } from "./interactive";
+import { CareerTicker, ContactForm, FAQ, PaginatedCards, PricingPlans, Reveal, Testimonials } from "./interactive";
 import "./inner-pages.css";
 
 type ReferencePage = { title: string; headings: string[]; text: string; images: { src: string; local: string; alt: string; width?: number; height?: number }[]; richText: string[]; links: { text: string; href: string }[] };
@@ -36,11 +36,11 @@ function About() {
       ["$200M+", "Let's raise some funds!", "Our design work has helped our clients raise a fund of over $200M."],
     ].map(([value, title, text]) => <div key={value}><strong>{value}</strong><h4>{title}</h4><p>{text}</p></div>)}</div></section>
     <section className="section team-section"><div className="container"><div className="team-heading"><SectionHeading eyebrow="Team" title="Meet our dream team" /><div className="team-intro"><p>We prioritize great people for great products, selecting individuals with professional skills and embodying our core values for our company&apos;s success.</p><Link href="/career" className="text-link">See open positions <span>↗</span></Link></div></div><div className="team-grid">{names.map((name, index) => <Reveal key={name}><Photo src={teamImages[index].local} alt={name} className="team-image" /><h4>{name}</h4><p>Founder &amp; CEO</p></Reveal>)}</div></div></section>
-    <section className="section awards-section"><div className="container"><SectionHeading eyebrow="Awards" title="We create award winning websites." /><div className="award-row award-header"><span>AWARD</span><span>PLATFORM</span><span /></div>{[["Creative Excellence", "2023", "Behance"], ["Mobile of the week", "2022", "Awwwards"], ["Site of the day", "2021", "CSSDA"], ["UI UX Innovation", "2021", "CSSDA"], ["Brand Identity", "2020", "Behance"]].map(([title, year, platform]) => <div className="award-row" key={title}><div><h4>{title}</h4><small>{year}</small></div><span>{platform}</span><span aria-hidden>↗</span></div>)}</div></section><Testimonials /><EndSections faq={false} /></>;
+    <section className="section awards-section"><div className="container"><SectionHeading eyebrow="Awards" title="We create award winning websites." /><div className="award-row award-header"><span>AWARD</span><span>PLATFORM</span><span /></div>{[["Creative Excellence", "2023", "Behance"], ["Mobile of the week", "2022", "Awwwards"], ["Site of the day", "2021", "CSSDA"], ["UI UX Innovation", "2021", "CSSDA"], ["Brand Identity", "2020", "Behance"]].map(([title, year, platform]) => <a href="https://www.awwwards.com/" className="award-row" key={title}><div><h4>{title}</h4><small>{year}</small></div><span>{platform}</span><span aria-hidden>↗</span></a>)}</div></section><Testimonials /><EndSections faq={false} /></>;
 }
 
 function Listing({ type }: { type: "project" | "blog" | "service" }) {
-  return <><PageHeading title={{ project: "Our Projects", blog: "Our Blogs", service: "Our Services" }[type]} description={intro} /><section className="container listing-section">{type === "service" ? <ServiceList detailed /> : <><div className={`inner-card-grid ${type}-listing`}>{type === "project" ? projects.map(project => <ProjectCard project={project} key={project.slug} />) : blogs.map(blog => <BlogCard blog={blog} key={blog.slug} />)}</div></>}</section><EndSections /></>;
+  return <><PageHeading title={{ project: "Our Projects", blog: "Our Blogs", service: "Our Services" }[type]} description={intro} spacious={type === "service"} /><section className="container listing-section">{type === "service" ? <ServiceList detailed /> : <PaginatedCards className={`inner-card-grid ${type}-listing`}>{type === "project" ? projects.map(project => <ProjectCard project={project} key={project.slug} />) : blogs.map(blog => <BlogCard blog={blog} key={blog.slug} />)}</PaginatedCards>}</section><EndSections /></>;
 }
 
 function Contact() {
@@ -101,7 +101,7 @@ export function InnerPage({ path }: { path: string }) {
   if (path === "/about") content = <About />;
   else if (path === "/contact") content = <Contact />;
   else if (path === "/career") content = <Careers />;
-  else if (path === "/pricing") content = <><PageHeading title="Our Packages" description={intro} /><PricingPlans /><EndSections /></>;
+  else if (path === "/pricing") content = <><PageHeading title="Our Packages" description={intro} spacious /><PricingPlans /><EndSections /></>;
   else if (["project", "service", "blog"].includes(type) && !slug) content = <Listing type={type as "project" | "service" | "blog"} />;
   else if (path === "/template-info/style-guide") content = <StyleGuide />;
   else if (legal || type === "template-info") content = <TextPage path={path} />;

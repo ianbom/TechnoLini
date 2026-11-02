@@ -175,7 +175,7 @@ test.describe("visual evidence", () => {
           };
           const heading = Array.from(document.querySelectorAll("h1")).find(visible);
           const heroAncestors = [];
-          for (let element = heading; element && heroAncestors.length < 6; element = element.parentElement ?? undefined) heroAncestors.push(measure(element));
+          for (let element: Element | undefined = heading; element && heroAncestors.length < 6; element = element.parentElement ?? undefined) heroAncestors.push(measure(element));
           const paragraphs = Array.from(document.querySelectorAll("p")).filter(element => visible(element) && (element.textContent?.length ?? 0) > 70).slice(0, 5).map(measure);
           const service = Array.from(document.querySelectorAll("a")).find(element => visible(element) && element.getAttribute("href")?.endsWith("/service/branding-design"));
           const serviceCard = service ? { ...measure(service), children: Array.from(service.querySelectorAll("img,h2,h3,p")).filter(visible).map(measure) } : null;

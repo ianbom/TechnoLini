@@ -9219,6 +9219,322 @@
         }
       ],
       "richText": []
+    },
+    "/project/brochure-design-template": {
+      "title": "Brochure Design Template - TechNova - Framer agency template",
+      "headings": [
+        "Brochure Design Template",
+        "Packaging",
+        "Jennifer Adams",
+        "2023",
+        "Key Features:",
+        "Technologies:",
+        "Project Goals:",
+        "Deliverables:",
+        "Note:",
+        "Related Works",
+        "Future Landing Page",
+        "AI Automation Dashboard",
+        "Frequently Asked Questions",
+        "What services does TechNova provide?",
+        "How do I start working with TechNova?",
+        "What industries does TechNova specialize in?",
+        "Can TechNova help improve our existing website?",
+        "What sets TechNova apart from other agencies?",
+        "How long does it typically take to complete a project?",
+        "Is TechNova available for ongoing support after the project is completed?",
+        "What are the payment terms and methods accepted by TechNova?",
+        "Book your free consultation now"
+      ],
+      "text": "Home\nAbout us\nProjects\nService\nBlog\nGet in Touch\nBrochure Design Template\nThe objective of the Minimal Portfolio Showcase Application is to create a sleek, user-friendly platform for individuals or businesses to exhibit their portfolios effectively. This application will enable users to showcase their work, whether in art, design, photography, writing, or any creative field, in a minimalist and elegant manner.\nView live website\nService’s\nPackaging\nClient\nJennifer Adams\nYear\n2023\nThe objective of the Minimal Portfolio Showcase Application is to create a sleek, user-friendly platform for individuals or businesses to exhibit their portfolios effectively. This application will enable users to showcase their work, whether in art, design, photography, writing, or any creative field, in a minimalist and elegant manner.\nKey Features:\nUser Profiles: Allow users to create individual profiles to display their portfolios.\nPortfolio Upload: Enable users to upload images, videos, or documents to exhibit their work.\nCustomizable Design: Offer options for users to personalize the look and feel of their portfolio pages.\nFiltering and Sorting: Implement features that enable viewers to filter and sort portfolios based on categories or tags.\nResponsive Design: Ensure the application is mobile-friendly for a seamless user experience on various devices.\nUser Interaction: Provide interactive elements like comments or likes to encourage user engagement and feedback.\nSecurity Measures: Implement robust security features to protect user data and prevent unauthorized access.\nTechnologies:\nFrontend: HTML, CSS, JavaScript (React or Vue.js)\nBackend: Node.js, Express\nDatabase: MongoDB or MySQL\nCloud Storage: AWS S3 or similar\nAuthentication: JWT (JSON Web Tokens)\nDeployment: Docker, Kubernetes\nProject Goals:\nDevelop an intuitive and aesthetically pleasing user interface for a smooth user experience.\nEnable easy navigation and interaction with portfolios to encourage user engagement.\nEnsure scalability and performance for future expansion and increased user base.\nPrioritize security measures to protect user data and maintain privacy.\nDeliverables:\nFully functional web application for showcasing portfolios.\nDocumentation detailing the application's features, functionalities, and setup instructions.\nTesting reports ensuring the application's performance and security.\nNote:\nThe emphasis of this project is on simplicity, functionality, and an intuitive user experience. It aims to offer a minimalistic and clean platform for users to exhibit their work effectively. The project can be expanded in the future to include additional features based on user feedback and evolving needs.\nThis project's success is contingent on its ability to provide an elegant, user-centric platform for individuals or businesses to display their portfolios, thereby attracting and engaging users.\nOther Work\nRelated Works\nFuture Landing Page\nWeb Design\nAI Automation Dashboard\nUi Ux\nFAQ’s\nFrequently Asked Questions\nWhat services does TechNova provide?\nHow do I start working with TechNova?\nWhat industries does TechNova specialize in?\nCan TechNova help improve our existing website?\nWhat sets TechNova apart from other agencies?\nHow long does it typically take to complete a project?\nIs TechNova available for ongoing support after the project is completed?\nWhat are the payment terms and methods accepted by TechNova?\nBook your free consultation now\nThis is a placeholder text for the consultation call to action that can be a few lines in length.\nBook Now\nMade Onmix. Powered by Framer.\n© 2023 TechNova. All rights reserved\nPages\nHome\nAbout us\nPackages\nContact Us\nCareers\nProjects\nBlogs\nServices\nPrivacy Policy\nTerms & Conditions\nUtility\nStyle Guide\nLicense\nChangelog\n404 Not Found\ncontact info\nmail@example.io\nUS: +1 234 567 8900\nCreate a free website with Framer, the website builder loved by startups, designers and agencies.",
+      "images": [
+        {
+          "src": "https://framerusercontent.com/images/0Pzk2uXSXJkL5rtST0fm382CsQ.jpg",
+          "alt": "Project Main Image",
+          "local": "/assets/images/0Pzk2uXSXJkL5rtST0fm382CsQ.jpg"
+        },
+        {
+          "src": "https://framerusercontent.com/images/Qvnu18ccZtONbo56FPy0YBA.jpg",
+          "alt": "Project Thumb Image",
+          "local": "/assets/images/Qvnu18ccZtONbo56FPy0YBA.jpg"
+        },
+        {
+          "src": "https://framerusercontent.com/images/wMyrXZKzP7DkCrigb7vjUrIcuc.jpg",
+          "alt": "Project Thumb Image",
+          "local": "/assets/images/wMyrXZKzP7DkCrigb7vjUrIcuc.jpg"
+        },
+        {
+          "src": "https://framerusercontent.com/images/RPCuI8EVmpZS8LJHTgXxHvCKvnA.jpg",
+          "alt": "Faq Image",
+          "local": "/assets/images/RPCuI8EVmpZS8LJHTgXxHvCKvnA.jpg"
+        },
+        {
+          "src": "https://framerusercontent.com/images/u8GMSqSNmcdCetAwR3pcCzYLmAs.svg",
+          "alt": "",
+          "local": "/assets/images/u8GMSqSNmcdCetAwR3pcCzYLmAs.svg"
+        },
+        {
+          "src": "https://framerusercontent.com/images/oExiiY4rhLCyrCsjIZgYxLZqg.svg",
+          "alt": "Cta Image",
+          "local": "/assets/images/oExiiY4rhLCyrCsjIZgYxLZqg.svg"
+        },
+        {
+          "src": "https://framerusercontent.com/images/vpgp9frlVUOKzzZwCCdCNBOkA.svg",
+          "alt": "Social Icon",
+          "local": "/assets/images/vpgp9frlVUOKzzZwCCdCNBOkA.svg"
+        },
+        {
+          "src": "https://framerusercontent.com/images/12Py2urwDUFEqpAbVPkoFucPJU.svg",
+          "alt": "Social Icon",
+          "local": "/assets/images/12Py2urwDUFEqpAbVPkoFucPJU.svg"
+        },
+        {
+          "src": "https://framerusercontent.com/images/T11JrZaWXZ1vPfTXYJPMlCe0eII.svg",
+          "alt": "Social Icon",
+          "local": "/assets/images/T11JrZaWXZ1vPfTXYJPMlCe0eII.svg"
+        }
+      ],
+      "richText": [
+        "<p>The objective of the Minimal Portfolio Showcase Application is to create a sleek, user-friendly platform for individuals or businesses to exhibit their portfolios effectively. This application will enable users to showcase their work, whether in art, design, photography, writing, or any creative field, in a minimalist and elegant manner.</p><h5>Key Features:</h5><ol><li><p><strong>User Profiles:</strong> Allow users to create individual profiles to display their portfolios.</p></li><li><p><strong>Portfolio Upload:</strong> Enable users to upload images, videos, or documents to exhibit their work.</p></li><li><p><strong>Customizable Design:</strong> Offer options for users to personalize the look and feel of their portfolio pages.</p></li><li><p><strong>Filtering and Sorting:</strong> Implement features that enable viewers to filter and sort portfolios based on categories or tags.</p></li><li><p><strong>Responsive Design:</strong> Ensure the application is mobile-friendly for a seamless user experience on various devices.</p></li><li><p><strong>User Interaction:</strong> Provide interactive elements like comments or likes to encourage user engagement and feedback.</p></li><li><p><strong>Security Measures:</strong> Implement robust security features to protect user data and prevent unauthorized access.</p></li></ol><h5>Technologies:</h5><ul><li><p>Frontend: HTML, CSS, JavaScript (React or Vue.js)</p></li><li><p>Backend: Node.js, Express</p></li><li><p>Database: MongoDB or MySQL</p></li><li><p>Cloud Storage: AWS S3 or similar</p></li><li><p>Authentication: JWT (JSON Web Tokens)</p></li><li><p>Deployment: Docker, Kubernetes</p></li></ul><h5>Project Goals:</h5><ul><li><p>Develop an intuitive and aesthetically pleasing user interface for a smooth user experience.</p></li><li><p>Enable easy navigation and interaction with portfolios to encourage user engagement.</p></li><li><p>Ensure scalability and performance for future expansion and increased user base.</p></li><li><p>Prioritize security measures to protect user data and maintain privacy.</p></li></ul><h5>Deliverables:</h5><ul><li><p>Fully functional web application for showcasing portfolios.</p></li><li><p>Documentation detailing the application's features, functionalities, and setup instructions.</p></li><li><p>Testing reports ensuring the application's performance and security.</p></li></ul><h6>Note:</h6><p>The emphasis of this project is on simplicity, functionality, and an intuitive user experience. It aims to offer a minimalistic and clean platform for users to exhibit their work effectively. The project can be expanded in the future to include additional features based on user feedback and evolving needs.</p><p>This project's success is contingent on its ability to provide an elegant, user-centric platform for individuals or businesses to display their portfolios, thereby attracting and engaging users.</p>"
+      ],
+      "links": []
+    },
+    "/project/ribbon-on-the-white-and-yellow-box": {
+      "title": "Ribbon On The White And Yellow Box - TechNova - Framer agency template",
+      "headings": [
+        "Ribbon On The White And Yellow Box",
+        "Animation",
+        "John Smith",
+        "2023",
+        "Key Features:",
+        "Technologies:",
+        "Project Goals:",
+        "Deliverables:",
+        "Note:",
+        "Related Works",
+        "Future Landing Page",
+        "AI Automation Dashboard",
+        "Frequently Asked Questions",
+        "What services does TechNova provide?",
+        "How do I start working with TechNova?",
+        "What industries does TechNova specialize in?",
+        "Can TechNova help improve our existing website?",
+        "What sets TechNova apart from other agencies?",
+        "How long does it typically take to complete a project?",
+        "Is TechNova available for ongoing support after the project is completed?",
+        "What are the payment terms and methods accepted by TechNova?",
+        "Book your free consultation now"
+      ],
+      "text": "Home\nAbout us\nProjects\nService\nBlog\nGet in Touch\nRibbon On The White And Yellow Box\nThe objective of the Minimal Portfolio Showcase Application is to create a sleek, user-friendly platform for individuals or businesses to exhibit their portfolios effectively. This application will enable users to showcase their work, whether in art, design, photography, writing, or any creative field, in a minimalist and elegant manner.\nView live website\nService’s\nAnimation\nClient\nJohn Smith\nYear\n2023\nThe objective of the Minimal Portfolio Showcase Application is to create a sleek, user-friendly platform for individuals or businesses to exhibit their portfolios effectively. This application will enable users to showcase their work, whether in art, design, photography, writing, or any creative field, in a minimalist and elegant manner.\nKey Features:\nUser Profiles: Allow users to create individual profiles to display their portfolios.\nPortfolio Upload: Enable users to upload images, videos, or documents to exhibit their work.\nCustomizable Design: Offer options for users to personalize the look and feel of their portfolio pages.\nFiltering and Sorting: Implement features that enable viewers to filter and sort portfolios based on categories or tags.\nResponsive Design: Ensure the application is mobile-friendly for a seamless user experience on various devices.\nUser Interaction: Provide interactive elements like comments or likes to encourage user engagement and feedback.\nSecurity Measures: Implement robust security features to protect user data and prevent unauthorized access.\nTechnologies:\nFrontend: HTML, CSS, JavaScript (React or Vue.js)\nBackend: Node.js, Express\nDatabase: MongoDB or MySQL\nCloud Storage: AWS S3 or similar\nAuthentication: JWT (JSON Web Tokens)\nDeployment: Docker, Kubernetes\nProject Goals:\nDevelop an intuitive and aesthetically pleasing user interface for a smooth user experience.\nEnable easy navigation and interaction with portfolios to encourage user engagement.\nEnsure scalability and performance for future expansion and increased user base.\nPrioritize security measures to protect user data and maintain privacy.\nDeliverables:\nFully functional web application for showcasing portfolios.\nDocumentation detailing the application's features, functionalities, and setup instructions.\nTesting reports ensuring the application's performance and security.\nNote:\nThe emphasis of this project is on simplicity, functionality, and an intuitive user experience. It aims to offer a minimalistic and clean platform for users to exhibit their work effectively. The project can be expanded in the future to include additional features based on user feedback and evolving needs.\nThis project's success is contingent on its ability to provide an elegant, user-centric platform for individuals or businesses to display their portfolios, thereby attracting and engaging users.\nOther Work\nRelated Works\nFuture Landing Page\nWeb Design\nAI Automation Dashboard\nUi Ux\nFAQ’s\nFrequently Asked Questions\nWhat services does TechNova provide?\nHow do I start working with TechNova?\nWhat industries does TechNova specialize in?\nCan TechNova help improve our existing website?\nWhat sets TechNova apart from other agencies?\nHow long does it typically take to complete a project?\nIs TechNova available for ongoing support after the project is completed?\nWhat are the payment terms and methods accepted by TechNova?\nBook your free consultation now\nThis is a placeholder text for the consultation call to action that can be a few lines in length.\nBook Now\nMade Onmix. Powered by Framer.\n© 2023 TechNova. All rights reserved\nPages\nHome\nAbout us\nPackages\nContact Us\nCareers\nProjects\nBlogs\nServices\nPrivacy Policy\nTerms & Conditions\nUtility\nStyle Guide\nLicense\nChangelog\n404 Not Found\ncontact info\nmail@example.io\nUS: +1 234 567 8900\nCreate a free website with Framer, the website builder loved by startups, designers and agencies.",
+      "images": [
+        {
+          "src": "https://framerusercontent.com/images/tFUEIzUITSulX2D3g3rOmbZkJjM.jpg",
+          "alt": "Project Main Image",
+          "local": "/assets/images/tFUEIzUITSulX2D3g3rOmbZkJjM.jpg"
+        },
+        {
+          "src": "https://framerusercontent.com/images/Qvnu18ccZtONbo56FPy0YBA.jpg",
+          "alt": "Project Thumb Image",
+          "local": "/assets/images/Qvnu18ccZtONbo56FPy0YBA.jpg"
+        },
+        {
+          "src": "https://framerusercontent.com/images/wMyrXZKzP7DkCrigb7vjUrIcuc.jpg",
+          "alt": "Project Thumb Image",
+          "local": "/assets/images/wMyrXZKzP7DkCrigb7vjUrIcuc.jpg"
+        },
+        {
+          "src": "https://framerusercontent.com/images/RPCuI8EVmpZS8LJHTgXxHvCKvnA.jpg",
+          "alt": "Faq Image",
+          "local": "/assets/images/RPCuI8EVmpZS8LJHTgXxHvCKvnA.jpg"
+        },
+        {
+          "src": "https://framerusercontent.com/images/u8GMSqSNmcdCetAwR3pcCzYLmAs.svg",
+          "alt": "",
+          "local": "/assets/images/u8GMSqSNmcdCetAwR3pcCzYLmAs.svg"
+        },
+        {
+          "src": "https://framerusercontent.com/images/oExiiY4rhLCyrCsjIZgYxLZqg.svg",
+          "alt": "Cta Image",
+          "local": "/assets/images/oExiiY4rhLCyrCsjIZgYxLZqg.svg"
+        },
+        {
+          "src": "https://framerusercontent.com/images/vpgp9frlVUOKzzZwCCdCNBOkA.svg",
+          "alt": "Social Icon",
+          "local": "/assets/images/vpgp9frlVUOKzzZwCCdCNBOkA.svg"
+        },
+        {
+          "src": "https://framerusercontent.com/images/12Py2urwDUFEqpAbVPkoFucPJU.svg",
+          "alt": "Social Icon",
+          "local": "/assets/images/12Py2urwDUFEqpAbVPkoFucPJU.svg"
+        },
+        {
+          "src": "https://framerusercontent.com/images/T11JrZaWXZ1vPfTXYJPMlCe0eII.svg",
+          "alt": "Social Icon",
+          "local": "/assets/images/T11JrZaWXZ1vPfTXYJPMlCe0eII.svg"
+        }
+      ],
+      "richText": [
+        "<p>The objective of the Minimal Portfolio Showcase Application is to create a sleek, user-friendly platform for individuals or businesses to exhibit their portfolios effectively. This application will enable users to showcase their work, whether in art, design, photography, writing, or any creative field, in a minimalist and elegant manner.</p><h5>Key Features:</h5><ol><li><p><strong>User Profiles:</strong> Allow users to create individual profiles to display their portfolios.</p></li><li><p><strong>Portfolio Upload:</strong> Enable users to upload images, videos, or documents to exhibit their work.</p></li><li><p><strong>Customizable Design:</strong> Offer options for users to personalize the look and feel of their portfolio pages.</p></li><li><p><strong>Filtering and Sorting:</strong> Implement features that enable viewers to filter and sort portfolios based on categories or tags.</p></li><li><p><strong>Responsive Design:</strong> Ensure the application is mobile-friendly for a seamless user experience on various devices.</p></li><li><p><strong>User Interaction:</strong> Provide interactive elements like comments or likes to encourage user engagement and feedback.</p></li><li><p><strong>Security Measures:</strong> Implement robust security features to protect user data and prevent unauthorized access.</p></li></ol><h5>Technologies:</h5><ul><li><p>Frontend: HTML, CSS, JavaScript (React or Vue.js)</p></li><li><p>Backend: Node.js, Express</p></li><li><p>Database: MongoDB or MySQL</p></li><li><p>Cloud Storage: AWS S3 or similar</p></li><li><p>Authentication: JWT (JSON Web Tokens)</p></li><li><p>Deployment: Docker, Kubernetes</p></li></ul><h5>Project Goals:</h5><ul><li><p>Develop an intuitive and aesthetically pleasing user interface for a smooth user experience.</p></li><li><p>Enable easy navigation and interaction with portfolios to encourage user engagement.</p></li><li><p>Ensure scalability and performance for future expansion and increased user base.</p></li><li><p>Prioritize security measures to protect user data and maintain privacy.</p></li></ul><h5>Deliverables:</h5><ul><li><p>Fully functional web application for showcasing portfolios.</p></li><li><p>Documentation detailing the application's features, functionalities, and setup instructions.</p></li><li><p>Testing reports ensuring the application's performance and security.</p></li></ul><h6>Note:</h6><p>The emphasis of this project is on simplicity, functionality, and an intuitive user experience. It aims to offer a minimalistic and clean platform for users to exhibit their work effectively. The project can be expanded in the future to include additional features based on user feedback and evolving needs.</p><p>This project's success is contingent on its ability to provide an elegant, user-centric platform for individuals or businesses to display their portfolios, thereby attracting and engaging users.</p>"
+      ],
+      "links": []
+    },
+    "/blog/artificial-intelligence-in-healthcare-revolutionizing-patient-care": {
+      "title": "Artificial Intelligence in Healthcare: Revolutionizing Patient Care - TechNova - Framer agency template",
+      "headings": [
+        "Artificial Intelligence in Healthcare: Revolutionizing Patient Care",
+        "The Arcane Intersection of Technological Marvels",
+        "Cognitive Nexus and Emergent Oscillations:",
+        "Abstract Contours and Fragmented Realities:",
+        "Related Blogs",
+        "5 Key Trends Shaping E-commerce in 2023",
+        "The Power of Influencer Marketing: A Comprehensive Guide",
+        "Frequently Asked Questions",
+        "What services does TechNova provide?",
+        "How do I start working with TechNova?",
+        "What industries does TechNova specialize in?",
+        "Can TechNova help improve our existing website?",
+        "What sets TechNova apart from other agencies?",
+        "How long does it typically take to complete a project?",
+        "Is TechNova available for ongoing support after the project is completed?",
+        "What are the payment terms and methods accepted by TechNova?",
+        "Book your free consultation now"
+      ],
+      "text": "Home\nAbout us\nProjects\nService\nBlog\nGet in Touch\nArtificial Intelligence in Healthcare: Revolutionizing Patient Care\nBusiness\nFebruary 6, 2023\nAt TechNova, we are excited to share the latest insights and trends in the digital world.\nThe Arcane Intersection of Technological Marvels\nDystopian is, while interactive apprehensions formulate, maneuvering the lateral facets within a synthesize continuum. Singular mechanics surpass the entangled schism of catalytic imperatives.Unilateral ideation navigates perplexing realms, entwined in the enigmatic flux of contemporaneous innovations. Convergent interfaces transmute within the exponential paradigm.The panoramic elucidation embarks upon the intrinsic dialectic, espousing nonpareil juxtapositions of multidimensional verities, adhering to an amorphous tapestry.\nImage with a caption\nCognitive Nexus and Emergent Oscillations:\nPropelled by ethereal trajectories\nEmergent technological cadence conveys\nNebulous echoes resonating across an enigmatic expanse\nThe quixotic continuum portends a nascent\n“ A rich text element can be used with static or dynamic content. For static content, just drop it into any page and begin editing. For dynamic content, add a rich text field to any collection and then connect a rich text element to that field in the settings panel. Voila! ”\nAbstract Contours and Fragmented Realities:\nThe effervescent spectrum conjures abstract hues in juxtaposition to fragmented realities, precipitating a salient zenith of conceptualization. Fragmented oscillations transcend linear trajectories, ushering in elusive contours amidst an interstitial myriad.\nOther Blogs\nRelated Blogs\nTechnology\nOctober 25, 2023\n5 Key Trends Shaping E-commerce in 2023\nMarketing\nNovember 11, 2023\nThe Power of Influencer Marketing: A Comprehensive Guide\nFAQ’s\nFrequently Asked Questions\nWhat services does TechNova provide?\nHow do I start working with TechNova?\nWhat industries does TechNova specialize in?\nCan TechNova help improve our existing website?\nWhat sets TechNova apart from other agencies?\nHow long does it typically take to complete a project?\nIs TechNova available for ongoing support after the project is completed?\nWhat are the payment terms and methods accepted by TechNova?\nBook your free consultation now\nThis is a placeholder text for the consultation call to action that can be a few lines in length.\nBook Now\nMade Onmix. Powered by Framer.\n© 2023 TechNova. All rights reserved\nPages\nHome\nAbout us\nPackages\nContact Us\nCareers\nProjects\nBlogs\nServices\nPrivacy Policy\nTerms & Conditions\nUtility\nStyle Guide\nLicense\nChangelog\n404 Not Found\ncontact info\nmail@example.io\nUS: +1 234 567 8900\nCreate a free website with Framer, the website builder loved by startups, designers and agencies.",
+      "images": [
+        {
+          "src": "https://framerusercontent.com/images/oNhG4QEDEtdVgydf0r0hT1fI.jpg",
+          "alt": "Blog Main Image",
+          "local": "/assets/images/oNhG4QEDEtdVgydf0r0hT1fI.jpg"
+        },
+        {
+          "src": "https://framerusercontent.com/images/sFhJbEV6UfGbb2467zo9mmNAe78.jpg",
+          "alt": "",
+          "local": "/assets/images/sFhJbEV6UfGbb2467zo9mmNAe78.jpg"
+        },
+        {
+          "src": "https://framerusercontent.com/images/DTBhgs8GLutPqK2HyRRvRosUyCI.jpg",
+          "alt": "Blog Thumb Image",
+          "local": "/assets/images/DTBhgs8GLutPqK2HyRRvRosUyCI.jpg"
+        },
+        {
+          "src": "https://framerusercontent.com/images/S6lxDOIS75iBBbJWUVAWF29kb8.jpg",
+          "alt": "Blog Thumb Image",
+          "local": "/assets/images/S6lxDOIS75iBBbJWUVAWF29kb8.jpg"
+        },
+        {
+          "src": "https://framerusercontent.com/images/RPCuI8EVmpZS8LJHTgXxHvCKvnA.jpg",
+          "alt": "Faq Image",
+          "local": "/assets/images/RPCuI8EVmpZS8LJHTgXxHvCKvnA.jpg"
+        },
+        {
+          "src": "https://framerusercontent.com/images/u8GMSqSNmcdCetAwR3pcCzYLmAs.svg",
+          "alt": "",
+          "local": "/assets/images/u8GMSqSNmcdCetAwR3pcCzYLmAs.svg"
+        },
+        {
+          "src": "https://framerusercontent.com/images/oExiiY4rhLCyrCsjIZgYxLZqg.svg",
+          "alt": "Cta Image",
+          "local": "/assets/images/oExiiY4rhLCyrCsjIZgYxLZqg.svg"
+        },
+        {
+          "src": "https://framerusercontent.com/images/vpgp9frlVUOKzzZwCCdCNBOkA.svg",
+          "alt": "Social Icon",
+          "local": "/assets/images/vpgp9frlVUOKzzZwCCdCNBOkA.svg"
+        },
+        {
+          "src": "https://framerusercontent.com/images/12Py2urwDUFEqpAbVPkoFucPJU.svg",
+          "alt": "Social Icon",
+          "local": "/assets/images/12Py2urwDUFEqpAbVPkoFucPJU.svg"
+        },
+        {
+          "src": "https://framerusercontent.com/images/T11JrZaWXZ1vPfTXYJPMlCe0eII.svg",
+          "alt": "Social Icon",
+          "local": "/assets/images/T11JrZaWXZ1vPfTXYJPMlCe0eII.svg"
+        }
+      ],
+      "richText": [
+        "<p>At TechNova, we are excited to share the latest insights and trends in the digital world.</p><h3>The Arcane Intersection of Technological Marvels</h3><p>Dystopian is, while interactive apprehensions formulate, maneuvering the lateral facets within a synthesize continuum. Singular mechanics surpass the entangled schism of catalytic imperatives.<br><br>Unilateral ideation navigates perplexing realms, entwined in the enigmatic flux of contemporaneous innovations. Convergent interfaces transmute within the exponential paradigm.<br><br>The panoramic elucidation embarks upon the intrinsic dialectic, espousing nonpareil juxtapositions of multidimensional verities, adhering to an amorphous tapestry.</p><img alt=\"\" src=\"https://framerusercontent.com/images/sFhJbEV6UfGbb2467zo9mmNAe78.jpg\"><p>Image with a caption</p><h5>Cognitive Nexus and Emergent Oscillations:</h5><ul><li><p>Propelled by ethereal trajectories</p></li><li><p>Emergent technological cadence conveys</p></li><li><p>Nebulous echoes resonating across an enigmatic expanse</p></li><li><p>The quixotic continuum portends a nascent</p></li></ul><p>“ A rich text element can be used with static or dynamic content. For static content, just drop it into any page and begin editing. For dynamic content, add a rich text field to any collection and then connect a rich text element to that field in the settings panel. Voila! ”</p><h5>Abstract Contours and Fragmented Realities:</h5><p>The effervescent spectrum conjures abstract hues in juxtaposition to fragmented realities, precipitating a salient zenith of conceptualization. Fragmented oscillations transcend linear trajectories, ushering in elusive contours amidst an interstitial myriad.</p>"
+      ],
+      "links": []
+    },
+    "/blog/investing-in-cryptocurrency-a-beginner-s-guide": {
+      "title": "Investing in Cryptocurrency: A Beginner's Guide - TechNova - Framer agency template",
+      "headings": [
+        "Investing in Cryptocurrency: A Beginner's Guide",
+        "The Arcane Intersection of Technological Marvels",
+        "Cognitive Nexus and Emergent Oscillations:",
+        "Abstract Contours and Fragmented Realities:",
+        "Related Blogs",
+        "5 Key Trends Shaping E-commerce in 2023",
+        "The Power of Influencer Marketing: A Comprehensive Guide",
+        "Frequently Asked Questions",
+        "What services does TechNova provide?",
+        "How do I start working with TechNova?",
+        "What industries does TechNova specialize in?",
+        "Can TechNova help improve our existing website?",
+        "What sets TechNova apart from other agencies?",
+        "How long does it typically take to complete a project?",
+        "Is TechNova available for ongoing support after the project is completed?",
+        "What are the payment terms and methods accepted by TechNova?",
+        "Book your free consultation now"
+      ],
+      "text": "Home\nAbout us\nProjects\nService\nBlog\nGet in Touch\nInvesting in Cryptocurrency: A Beginner's Guide\nTechnology\nJanuary 12, 2023\nAt TechNova, we are excited to share the latest insights and trends in the digital world.\nThe Arcane Intersection of Technological Marvels\nDystopian is, while interactive apprehensions formulate, maneuvering the lateral facets within a synthesize continuum. Singular mechanics surpass the entangled schism of catalytic imperatives.Unilateral ideation navigates perplexing realms, entwined in the enigmatic flux of contemporaneous innovations. Convergent interfaces transmute within the exponential paradigm.The panoramic elucidation embarks upon the intrinsic dialectic, espousing nonpareil juxtapositions of multidimensional verities, adhering to an amorphous tapestry.\nImage with a caption\nCognitive Nexus and Emergent Oscillations:\nPropelled by ethereal trajectories\nEmergent technological cadence conveys\nNebulous echoes resonating across an enigmatic expanse\nThe quixotic continuum portends a nascent\n“ A rich text element can be used with static or dynamic content. For static content, just drop it into any page and begin editing. For dynamic content, add a rich text field to any collection and then connect a rich text element to that field in the settings panel. Voila! ”\nAbstract Contours and Fragmented Realities:\nThe effervescent spectrum conjures abstract hues in juxtaposition to fragmented realities, precipitating a salient zenith of conceptualization. Fragmented oscillations transcend linear trajectories, ushering in elusive contours amidst an interstitial myriad.\nOther Blogs\nRelated Blogs\nTechnology\nOctober 25, 2023\n5 Key Trends Shaping E-commerce in 2023\nMarketing\nNovember 11, 2023\nThe Power of Influencer Marketing: A Comprehensive Guide\nFAQ’s\nFrequently Asked Questions\nWhat services does TechNova provide?\nHow do I start working with TechNova?\nWhat industries does TechNova specialize in?\nCan TechNova help improve our existing website?\nWhat sets TechNova apart from other agencies?\nHow long does it typically take to complete a project?\nIs TechNova available for ongoing support after the project is completed?\nWhat are the payment terms and methods accepted by TechNova?\nBook your free consultation now\nThis is a placeholder text for the consultation call to action that can be a few lines in length.\nBook Now\nMade Onmix. Powered by Framer.\n© 2023 TechNova. All rights reserved\nPages\nHome\nAbout us\nPackages\nContact Us\nCareers\nProjects\nBlogs\nServices\nPrivacy Policy\nTerms & Conditions\nUtility\nStyle Guide\nLicense\nChangelog\n404 Not Found\ncontact info\nmail@example.io\nUS: +1 234 567 8900\nCreate a free website with Framer, the website builder loved by startups, designers and agencies.",
+      "images": [
+        {
+          "src": "https://framerusercontent.com/images/EWbGFUSpQnBXLKmWYz444nk9Lw.jpg",
+          "alt": "Blog Main Image",
+          "local": "/assets/images/EWbGFUSpQnBXLKmWYz444nk9Lw.jpg"
+        },
+        {
+          "src": "https://framerusercontent.com/images/sFhJbEV6UfGbb2467zo9mmNAe78.jpg",
+          "alt": "",
+          "local": "/assets/images/sFhJbEV6UfGbb2467zo9mmNAe78.jpg"
+        },
+        {
+          "src": "https://framerusercontent.com/images/DTBhgs8GLutPqK2HyRRvRosUyCI.jpg",
+          "alt": "Blog Thumb Image",
+          "local": "/assets/images/DTBhgs8GLutPqK2HyRRvRosUyCI.jpg"
+        },
+        {
+          "src": "https://framerusercontent.com/images/S6lxDOIS75iBBbJWUVAWF29kb8.jpg",
+          "alt": "Blog Thumb Image",
+          "local": "/assets/images/S6lxDOIS75iBBbJWUVAWF29kb8.jpg"
+        },
+        {
+          "src": "https://framerusercontent.com/images/RPCuI8EVmpZS8LJHTgXxHvCKvnA.jpg",
+          "alt": "Faq Image",
+          "local": "/assets/images/RPCuI8EVmpZS8LJHTgXxHvCKvnA.jpg"
+        },
+        {
+          "src": "https://framerusercontent.com/images/u8GMSqSNmcdCetAwR3pcCzYLmAs.svg",
+          "alt": "",
+          "local": "/assets/images/u8GMSqSNmcdCetAwR3pcCzYLmAs.svg"
+        },
+        {
+          "src": "https://framerusercontent.com/images/oExiiY4rhLCyrCsjIZgYxLZqg.svg",
+          "alt": "Cta Image",
+          "local": "/assets/images/oExiiY4rhLCyrCsjIZgYxLZqg.svg"
+        },
+        {
+          "src": "https://framerusercontent.com/images/vpgp9frlVUOKzzZwCCdCNBOkA.svg",
+          "alt": "Social Icon",
+          "local": "/assets/images/vpgp9frlVUOKzzZwCCdCNBOkA.svg"
+        },
+        {
+          "src": "https://framerusercontent.com/images/12Py2urwDUFEqpAbVPkoFucPJU.svg",
+          "alt": "Social Icon",
+          "local": "/assets/images/12Py2urwDUFEqpAbVPkoFucPJU.svg"
+        },
+        {
+          "src": "https://framerusercontent.com/images/T11JrZaWXZ1vPfTXYJPMlCe0eII.svg",
+          "alt": "Social Icon",
+          "local": "/assets/images/T11JrZaWXZ1vPfTXYJPMlCe0eII.svg"
+        }
+      ],
+      "richText": [
+        "<p>At TechNova, we are excited to share the latest insights and trends in the digital world.</p><h3>The Arcane Intersection of Technological Marvels</h3><p>Dystopian is, while interactive apprehensions formulate, maneuvering the lateral facets within a synthesize continuum. Singular mechanics surpass the entangled schism of catalytic imperatives.<br><br>Unilateral ideation navigates perplexing realms, entwined in the enigmatic flux of contemporaneous innovations. Convergent interfaces transmute within the exponential paradigm.<br><br>The panoramic elucidation embarks upon the intrinsic dialectic, espousing nonpareil juxtapositions of multidimensional verities, adhering to an amorphous tapestry.</p><img alt=\"\" src=\"https://framerusercontent.com/images/sFhJbEV6UfGbb2467zo9mmNAe78.jpg\"><p>Image with a caption</p><h5>Cognitive Nexus and Emergent Oscillations:</h5><ul><li><p>Propelled by ethereal trajectories</p></li><li><p>Emergent technological cadence conveys</p></li><li><p>Nebulous echoes resonating across an enigmatic expanse</p></li><li><p>The quixotic continuum portends a nascent</p></li></ul><p>“ A rich text element can be used with static or dynamic content. For static content, just drop it into any page and begin editing. For dynamic content, add a rich text field to any collection and then connect a rich text element to that field in the settings panel. Voila! ”</p><h5>Abstract Contours and Fragmented Realities:</h5><p>The effervescent spectrum conjures abstract hues in juxtaposition to fragmented realities, precipitating a salient zenith of conceptualization. Fragmented oscillations transcend linear trajectories, ushering in elusive contours amidst an interstitial myriad.</p>"
+      ],
+      "links": []
     }
   },
   "assets": {
@@ -9550,6 +9866,14 @@
     "https://technova-template.framer.website/pricing/pro-package#inline-1bbd6767392743a8": "/assets/inline/1bbd6767392743a8.svg",
     "https://technova-template.framer.website/pricing/standard-package#inline-b7261fb67526792b": "/assets/inline/b7261fb67526792b.svg",
     "https://technova-template.framer.website/pricing/standard-package#inline-1bbd6767392743a8": "/assets/inline/1bbd6767392743a8.svg",
-    "https://technova-template.framer.website/404#inline-1bbd6767392743a8": "/assets/inline/1bbd6767392743a8.svg"
+    "https://technova-template.framer.website/404#inline-1bbd6767392743a8": "/assets/inline/1bbd6767392743a8.svg",
+    "https://framerusercontent.com/images/0Pzk2uXSXJkL5rtST0fm382CsQ.jpg": "/assets/images/0Pzk2uXSXJkL5rtST0fm382CsQ.jpg",
+    "https://framerusercontent.com/images/hdzXujLeYjF60MtMWmx1p9SXloI.jpg": "/assets/images/hdzXujLeYjF60MtMWmx1p9SXloI.jpg",
+    "https://framerusercontent.com/images/tFUEIzUITSulX2D3g3rOmbZkJjM.jpg": "/assets/images/tFUEIzUITSulX2D3g3rOmbZkJjM.jpg",
+    "https://framerusercontent.com/images/EW9lFjXOSJixxtHjzRaAAFRS5c4.jpg": "/assets/images/EW9lFjXOSJixxtHjzRaAAFRS5c4.jpg",
+    "https://framerusercontent.com/images/oNhG4QEDEtdVgydf0r0hT1fI.jpg": "/assets/images/oNhG4QEDEtdVgydf0r0hT1fI.jpg",
+    "https://framerusercontent.com/images/cWTCEIBkvmxTCyzCbKnCSKy5Zo.jpg": "/assets/images/cWTCEIBkvmxTCyzCbKnCSKy5Zo.jpg",
+    "https://framerusercontent.com/images/EWbGFUSpQnBXLKmWYz444nk9Lw.jpg": "/assets/images/EWbGFUSpQnBXLKmWYz444nk9Lw.jpg",
+    "https://framerusercontent.com/images/J12hobMZFpwkokRayWYVxm7CzU.jpg": "/assets/images/J12hobMZFpwkokRayWYVxm7CzU.jpg"
   }
 }

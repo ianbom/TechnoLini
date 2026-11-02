@@ -257,6 +257,10 @@
   margin-bottom: 40px
 }
 
+.faq-section { background: #000; color: #fff; }
+.faq-section p,.faq-section .faq-trigger,.faq-section .faq-content { color: #fff; }
+.faq-section button:focus-visible { outline-color: #fff; }
+
 .faq-intro>img {
   display: block;
   width: 100%;

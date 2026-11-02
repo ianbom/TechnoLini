@@ -2,7 +2,7 @@
 
 Retrieved 2026-11-02 from https://technova-template.framer.website/.
 
-Captured 41 pages. Original remote image URLs have query parameters removed; downloads preserve original bytes. Inline SVGs extracted from publisher DOM and referenced SVG templates.
+Captured 45 pages. Original remote image URLs have query parameters removed; downloads preserve original bytes. Inline SVGs extracted from publisher DOM and referenced SVG templates.
 
 ## License Assertions
 
@@ -218,3 +218,12 @@ Official SIL Open Font License 1.1 texts retrieved and stored as `/assets/fonts/
 - Reference: https://technova-template.framer.website/; last matching `@font-face` declaration for Inter normal 400, Latin U+0000-00FF. Earlier overlapping face also exists at https://framerusercontent.com/assets/GrgcKwrN6d3Uz8EwcLHZxwEfC4.woff2. Chosen final face covers primary-button Latin text; actual browser resource selection was not independently observed in this HTTP-only extraction.
 - License: `/assets/fonts/inter-OFL.txt`, SIL Open Font License 1.1, retrieved from https://raw.githubusercontent.com/rsms/inter/master/LICENSE.txt.
 - Retrieved 2026-11-02; WOFF2 signature verified.
+
+## Additional pagination assets
+
+The following images were found after activating Load More on the project and blog listings. Each is stored under `/assets/images/` using its original filename, from `https://framerusercontent.com/images/`:
+
+- Project thumbnails: `hdzXujLeYjF60MtMWmx1p9SXloI.jpg`, `EW9lFjXOSJixxtHjzRaAAFRS5c4.jpg`.
+- Project detail images: `0Pzk2uXSXJkL5rtST0fm382CsQ.jpg`, `tFUEIzUITSulX2D3g3rOmbZkJjM.jpg`.
+- Blog thumbnails: `cWTCEIBkvmxTCyzCbKnCSKy5Zo.jpg`, `J12hobMZFpwkokRayWYVxm7CzU.jpg`.
+- Blog detail images: `oNhG4QEDEtdVgydf0r0hT1fI.jpg`, `EWbGFUSpQnBXLKmWYz444nk9Lw.jpg`.

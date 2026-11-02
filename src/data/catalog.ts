@@ -11,13 +11,15 @@ const pages = reference.pages as Record<string, { headings: string[]; text: stri
 const thumbnails = (path: string, alt: string) => pages[path].images.filter(image => image.alt === alt).map(image => image.local);
 const projectImages = thumbnails("/project", "Project Thumb Image");
 const blogImages = thumbnails("/blog", "Blog Thumb Image");
+projectImages.push("/assets/images/hdzXujLeYjF60MtMWmx1p9SXloI.jpg", "/assets/images/EW9lFjXOSJixxtHjzRaAAFRS5c4.jpg");
+blogImages.push("/assets/images/cWTCEIBkvmxTCyzCbKnCSKy5Zo.jpg", "/assets/images/J12hobMZFpwkokRayWYVxm7CzU.jpg");
 
 export const projects: Project[] = collections.project.map((slug, index) => {
   const page = pages[`/project/${slug}`];
-  return { slug, title: page.headings[0], category: ["Web Design", "Ui Ux", "Mobile App", "Branding", "Animation", "Packaging"][index], image: projectImages[index] };
+  return { slug, title: page.headings[0], category: ["Web Design", "Ui Ux", "Mobile App", "Branding", "Animation", "Packaging", "Packaging", "Animation"][index], image: projectImages[index] };
 });
-const categories = ["Technology", "Marketing", "Business", "Seo", "Web Design", "Productivity"];
-const dates = ["October 25, 2023", "November 11, 2023", "November 8, 2023", "April 8, 2023", "March 15, 2023", "February 28, 2023"];
+const categories = ["Technology", "Marketing", "Business", "Seo", "Web Design", "Productivity", "Business", "Technology"];
+const dates = ["October 25, 2023", "November 11, 2023", "November 8, 2023", "April 8, 2023", "March 15, 2023", "February 28, 2023", "February 6, 2023", "January 12, 2023"];
 export const blogs: Blog[] = collections.blog.map((slug, index) => ({ slug, title: pages[`/blog/${slug}`].headings[0], image: blogImages[index], category: categories[index], date: dates[index] }));
 export const services: Service[] = collections.service.map((slug, index) => ({
   slug, title: pages[`/service/${slug}`].headings[0], image: pages[`/service/${slug}`].images[0].local,

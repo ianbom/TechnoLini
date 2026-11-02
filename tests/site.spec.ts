@@ -4,7 +4,7 @@ import { allRoutes } from "../src/lib/routes";
 test("all public routes and unknown routes", async ({ request }) => {
   for (const route of allRoutes) {
     const response = await request.get(route);
-    expect(response.status(), route).toBe(200);
+    expect(response.status(), route).toBe(route === "/404" ? 404 : 200);
     expect(await response.text(), route).toContain("<h1");
   }
   expect((await request.get("/missing-page")).status()).toBe(404);
@@ -35,6 +35,28 @@ test("pricing changes and independent FAQ panels", async ({ page }) => {
   await page.getByRole("button", { name: "How do I start working with TechNova?" }).click();
   await expect(page.getByRole("button", { name: "What services does TechNova provide?" })).toHaveAttribute("aria-expanded", "true");
   await expect(page.getByRole("button", { name: "How do I start working with TechNova?" })).toHaveAttribute("aria-expanded", "true");
+});
+
+test("project and blog pagination reveal working detail links", async ({ page }) => {
+  for (const [route, card, detail] of [["/project", ".project-card", "/project/brochure-design-template"], ["/blog", ".blog-card", "/blog/artificial-intelligence-in-healthcare-revolutionizing-patient-care"]]) {
+    await page.goto(route);
+    await expect(page.locator(card)).toHaveCount(6);
+    await page.getByRole("button", { name: "Load More" }).click();
+    await expect(page.locator(card)).toHaveCount(8);
+    await expect(page.getByRole("button", { name: "Load More" })).toHaveCount(0);
+    await page.locator(`a[href="${detail}"]`).click();
+    await expect(page).toHaveURL(new RegExp(`${detail}$`));
+    await expect(page.locator("h1")).toBeVisible();
+  }
+});
+
+test("service cards reveal while scrolling on a phone", async ({ page }) => {
+  await page.setViewportSize({ width: 390, height: 844 });
+  await page.goto("/service");
+  for (const card of await page.locator(".detailed-services .service-row").all()) {
+    await card.scrollIntoViewIfNeeded();
+    await expect(card.locator("..")).toHaveCSS("opacity", "1");
+  }
 });
 
 test("mobile navigation and local contact feedback", async ({ page }) => {
